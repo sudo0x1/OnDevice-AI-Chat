@@ -76,3 +76,13 @@ dependencies {
 ### 4. Get a model
 
 Download a **GGUF** model. Small models work best on phones
+
+### Screenshots
+
+<p align="center">
+  <img src="screenshots/OndeviceAI.jpg" width="220" />
+</p>
+
+<p align="center">
+  <em>Load a model • Chat offline</em>
+</p>
